@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="javax.mail.Multipart"/>
+<fullyQualifiedTypeName name="javax.mail.BodyPart"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="javax.mail.Flags.Flag"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="javax.mail.search.FlagTerm"/>
+<fullyQualifiedTypeName name="javax.mail.Store"/>
+<fullyQualifiedTypeName name="javax.mail.Flags"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>
